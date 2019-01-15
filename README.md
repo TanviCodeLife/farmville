@@ -1,10 +1,10 @@
-# **Super Galactic Age Calculator**
-####  Week1 JavaScript Independent Project at Epicodus, 01/12/2019
+# **FarmVille**
+####  Week2 JavaScript, 01/12/2019
 #### Tanvi Garg   
 
   ---
 ## Description
-An application that determines a user’s age, lifespan and years left to live based on a planet’s solar years.
+Facebook's Farmville game clone application.
 
   ---
 ## Table of Contents
@@ -19,9 +19,9 @@ An application that determines a user’s age, lifespan and years left to live b
 
 | Behavior | Input | Output |
 |----------|-------|--------|
-|  Program takes a user's date of birth and calculate Earth years.| User DOB= 1985-3-5, Planet: Mercury, Country Of Residence: United States, Activity Level: Medium, Gender: F | 33.86 Earth years |
-|  Program takes a user's date of birth and converts to Mercury Years.| User DOB= 1985-3-5, Planet: Mercury, Country Of Residence: United States, Activity Level: Medium, Gender: F | 33.86 / .24 = 141.08 Mercury Yrs |
-| Program takes a user's date of birth and converts to Venus Years. | User DOB= 1985-3-5, Planet: Venus, Country Of Residence: United States, Activity Level: Medium, Gender: F | 33.86 / .62 = = 54.61 Venus Yrs |
+|  Time Start and Game instructs user to plant seedlings in provided time limit| User Clicks "Sow Seeds"| Seedlings should appear where the user moves |
+|  After all seedlings are planted, user should see an alert "Congratulations, Your farm is planted".| User finishes planting | Game informs that planting season is finished |
+|  Time Start and Game instructs user to plant seedlings in provided time limit| User does not plant in given time| Game tells user "planting season is over". Game is Over! |
 | Program takes a user's date of birth and converts to Mars Years. |  User DOB= 1985-3-5, Planet: Mars, Country Of Residence: United States, Activity Level: Medium, Gender: F  | 33.86 / 1.88 = 18.01 Mars Yrs |
 | Program takes a user's date of birth and converts to Jupiter Years. |  User DOB= 1985-3-5, Planet: Jupiter, Country Of Residence: United States, Activity Level: Medium, Gender: F  | 33.86 / 11.86 = 2.85 Jupiter Years |
 | Program takes a user's date of birth and gives life expectancy in Earth years based on country, gender and activity level. |  User DOB= 1985-3-5, Country Of Residence: United States, Activity Level: Medium, Gender: F  | Life Expectancy = 69 |
